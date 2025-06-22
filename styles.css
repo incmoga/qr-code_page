@@ -19,7 +19,8 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 1.5rem;
+    min-height: 100vh;
+    padding: 0 1.5rem;
     background-color: var(--color-light-gray);
     line-height: 1.5;
     font-family: 'Outfit', sans-serif;
@@ -29,6 +30,7 @@ body{
     background-color: var(--color-white);
     padding: 1rem;
     border-radius: 20px;
+    width: 100%;
     max-width: 320px; /* По макету мобильной версии */
     box-shadow: var(--box-shadow);
     margin-bottom: 1.5rem;
