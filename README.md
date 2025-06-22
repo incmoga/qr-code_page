@@ -17,7 +17,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-![](./screenshot.jpg)
+| Mobile | Desktop |
+|----------------|------------------|
+| <img src="./screenshots/screenshot-mobile.png" width="300"> | <img src="./screenshots/screenshot-desktop.png" width="600"> |
 
 ### Links
 
@@ -60,7 +62,7 @@ body {
 ```
 ### Continued development
 
-**Areas I want to continue focusing on in future projects:**
+Areas I want to continue focusing on in future projects:
 
 - Advanced responsive design techniques
 - CSS Grid for complex layouts
@@ -71,5 +73,5 @@ body {
 
 ## Author
 
-- Website - [Maksim Semizhonov](https://github.com/incmoga)
+- GitHub - [Maksim Semizhonov](https://github.com/incmoga)
 
